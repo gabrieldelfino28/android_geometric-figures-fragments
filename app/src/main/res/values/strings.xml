@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geometry Calculator</string>
+    <string name="frag_01">Círculo</string>
+    <string name="frag_02">Retângulo</string>
+    <string name="in_base">Base</string>
+    <string name="in_altura">Altura</string>
+    <string name="in_raio">Raio</string>
+    <string name="out_area">Area: %.2f</string>
+    <string name="out_perim">Perímetro: %.2f</string>
+    <string name="err">Campos Vazios!</string>
+    <string name="btnArea">Area</string>
+    <string name="btnPerimetro">Perimetro</string>
+    <string name="calc">Calcular Area/Perimetro</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
